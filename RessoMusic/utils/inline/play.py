@@ -62,10 +62,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="ѕυρροяτ", url=f"https://t.me/saragamaupdate"
+                text="𝐔ρ𝖽αтєѕ", url=f"https://t.me/Music_World_Update"
             ),
             InlineKeyboardButton(
-                text="ηεω вσт", url=f"https://t.me/anjalixmusicbot"
+                text="𝐒υρρσɾƚ", url=f"https://t.me/Music_World_Support"
             ),
         ],
     ]
@@ -83,10 +83,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="ѕυρροяτ", url=f"https://t.me/saragamaupdate"
+                text="𝐔ρ𝖽αтєѕ", url=f"https://t.me/Music_World_Update"
             ),
             InlineKeyboardButton(
-                text="ηεω вσт", url="https://t.me/anjalixmusicbot"
+                text="𝐒υρρσɾƚ", url="https://t.me/Music_World_Support"
             ),
         ],
     ]
